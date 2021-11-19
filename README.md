@@ -1,7 +1,13 @@
-VERSIÓN 1
-generada Andrea 
+Version2
 
-verificada Sara 
 
-comunicada Ángela
-https://www.youtube.com/watch?v=dipKmJGqZZE
+Servidor concurrente, Lista de conectados y Exclusión mutua
+
+
+Generada por Angela
+
+
+Verificada por Andrea
+
+
+Comunicada por Sara
